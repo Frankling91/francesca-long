@@ -1,0 +1,317 @@
+body{background-color: #f6eded;
+	margin: 0px;
+  /*light grey color*/
+	/*font-family: 'Alata', sans-serif;
+
+	font-family: 'Oswald', sans-serif;
+	weight: medium 500*/
+      }
+
+header{background-color: #33aae2;}
+.about{background-color: #33aae2; /*vivid blue*/
+	   max-width: auto;
+	   max-height: 450px;
+	   border: 0px;
+	   padding: 0px}
+
+.about-me{color: white;
+	font-family: 'Gill sans nova', sans-serif;
+	font-stretch: normal;
+	font-size: 35px;
+	font-weight: 400;
+	padding-top: 80px;
+	padding-bottom: 86px;
+	padding-right: 120px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.avatar{ max-width: 267px;
+		float: left; 
+		padding-top: 79px;
+		padding-bottom: 48px;
+		padding-left: 97px;
+		padding-right: 76px;
+		display: inline-block;
+	}
+
+.logo{max-width: 50px;
+	  float:left;
+	  padding-top: 15px;
+	  padding-right: 60px;
+	  padding-left: 12px;
+	  padding-bottom: 0px;}
+
+	/* Add a black background color to the top navigation */
+.topnav {
+  margin: 0px;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  overflow: hidden;
+  align-content: left;
+  height: 80px;
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  font-family:'Gill sans nova', sans-serif;
+	font-stretch: condensed;
+	font-size: 36px;
+  color: #33aae2;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 47px;
+  padding-left: 47px;
+  text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: white; 
+  color: #f3abb4;/*pink*/
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: white; 
+  color: #fecf7e;/*yellow*/
+}
+
+
+/* Right-aligned section inside the top navigation */
+
+
+h1{ 
+	font-family: 'Gill sans nova', sans-serif;
+	font-stretch: extra-condensed;
+	font-size: 36px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 8px;
+}
+.solid{
+	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.3);
+	border: 0.6px solid black;
+	margin-top: 8px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.work-1{
+	float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 10px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width: 700px;
+	}
+.work-0{
+	float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width: 316px;
+	}
+
+p{
+	font-family: 'Gill sans nova', sans-serif;
+	font-size: 20px;
+	margin-left: 8px;
+	padding-right: 5px;
+}
+
+.twinned{
+	display: inline-block;
+}
+
+.sauce{ display: inline-block; }
+
+.work-2{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:300px;}
+
+.work-3{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:552px;}
+
+.wattson{display: inline-block;}
+.watt{align-content: center;
+display: inline-block;}
+.work-4{
+	padding-left: 170px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width:350px;}
+
+.work-5{
+	padding: 20px;
+	width:350px;}
+
+.work-6{
+	padding: 20px;
+	width:300px;}
+
+.cinch{display: inline-block;}
+
+.work-7{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:600px;}
+
+.work-8{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:240px;}
+
+.wall-1{display: inline-block;}
+
+.work-9{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:300px;}
+
+.work-10{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	width:780px;}
+
+.wall-2{display: inline-block;}
+
+.work-11{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 400px;}
+
+.work-12{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 400px;}
+
+.bel{display: inline-block;
+width: 1519.200px;}
+
+.work-13{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 300px;}
+
+.work-14{float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 300px;}
+
+/* end of projects section */
+
+.Freelance
+	  {background-color: #93cbd5; /*light blue*/
+	   margin: 0px;
+	   max-width: auto;
+	   max-height: 200px;
+	   border: 1px #93cbd5;
+	   box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	   padding: 0px}
+	   
+
+.free-1{
+	float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 400px;}
+
+.free-2{
+	float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 300px;}
+
+.free-3{
+	float: left;
+	border: 10px solid white;
+	box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.4);
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 700px;}
+
+	.free-4{
+	float: left;
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 400px;}
+
+	.free-5{
+	float: left;
+	margin-right: 20px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+	height: 1000px;}
+
+.note{color: grey;
+	font-family: 'Gill sans nova', sans-serif;
+	font-style: italic;
+	font-stretch: extra-condensed;
+	font-size: 18px;
+	font-weight: 400;}
+
+.footer-box{
+  background-color: #93cbd5;
+  overflow: hidden;
+  margin-top: 0px;
+  height: 80px;
+  padding: 0px;
+}
+
+h2{ color: white;
+	font-family: 'Gill sans nova', sans-serif;
+	font-stretch: extra-condensed;
+	font-size: 35px;
+	font-weight: 400;
+	margin: 15px;}
